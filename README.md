@@ -10,63 +10,50 @@ I am **Prateek**, a student and tech enthusiast who loves exploring new technolo
 - **Location:** India 🇮🇳
 - **Education:** **Indian Institute of Information Technology Vadodara**
 
-## 🧑‍💻 **Interests**
-- **Web Tech**: 
-  <span style="display:inline-block; padding:10px; background-color:#f1f1f1; border-radius:8px; margin:5px;">
-    <i class="fab fa-html5" style="font-size: 30px;"></i>
-  </span>
-  <span style="display:inline-block; padding:10px; background-color:#f1f1f1; border-radius:8px; margin:5px;">
-    <i class="fab fa-css3-alt" style="font-size: 30px;"></i>
-  </span>
-  <span style="display:inline-block; padding:10px; background-color:#f1f1f1; border-radius:8px; margin:5px;">
-    <i class="fab fa-js-square" style="font-size: 30px;"></i>
-  </span>
-  <span style="display:inline-block; padding:10px; background-color:#f1f1f1; border-radius:8px; margin:5px;">
-    <i class="fab fa-react" style="font-size: 30px;"></i>
-  </span>
-  <span style="display:inline-block; padding:10px; background-color:#f1f1f1; border-radius:8px; margin:5px;">
-    <i class="fas fa-database" style="font-size: 30px;"></i>
-  </span>
-  
-- **Python**: 
-  <span style="display:inline-block; padding:10px; background-color:#f1f1f1; border-radius:8px; margin:5px;">
-    <i class="fab fa-python" style="font-size: 30px;"></i>
-  </span>
-  <span style="display:inline-block; padding:10px; background-color:#f1f1f1; border-radius:8px; margin:5px;">
-    <i class="fas fa-cogs" style="font-size: 30px;"></i>
-  </span>
-  
-- **DSA**: 
-  <span style="display:inline-block; padding:10px; background-color:#f1f1f1; border-radius:8px; margin:5px;">
-    <i class="fas fa-code" style="font-size: 30px;"></i>
-  </span>
+### 🛠 Technologies & Tools
+<p align="left">
+  <!-- Frontend -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" />
+  </a>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
+  </a>
+  <a href="https://tailwindcss.com/docs" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" />
+  </a>
 
-- **AI/ML**: 
-  <span style="display:inline-block; padding:10px; background-color:#f1f1f1; border-radius:8px; margin:5px;">
-    <i class="fas fa-brain" style="font-size: 30px;"></i>
-  </span>
-  
-- **Firebase**: 
-  <span style="display:inline-block; padding:10px; background-color:#f1f1f1; border-radius:8px; margin:5px;">
-    <i class="fab fa-fire" style="font-size: 30px;"></i>
-  </span>
-  
-- **MySQL**: 
-  <span style="display:inline-block; padding:10px; background-color:#f1f1f1; border-radius:8px; margin:5px;">
-    <i class="fas fa-database" style="font-size: 30px;"></i>
-  </span>
+  <!-- Backend -->
+  <a href="https://nodejs.org/en/docs/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
+  </a>
+  <a href="https://expressjs.com/en/4x/api.html" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" />
+  </a>
+  <a href="https://www.mongodb.com/docs/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
+  </a>
 
-- **MATLAB**: 
-  <span style="display:inline-block; padding:10px; background-color:#f1f1f1; border-radius:8px; margin:5px;">
-    <i class="fab fa-linux" style="font-size: 30px;"></i>
-  </span>
-  
-- **Web Scraping**: 
-  <span style="display:inline-block; padding:10px; background-color:#f1f1f1; border-radius:8px; margin:5px;">
-    <i class="fas fa-sitemap" style="font-size: 30px;"></i>
-  </span>
-
----
+  <!-- Programming Languages -->
+  <a href="https://en.cppreference.com/w/c" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" />
+  </a>
+  <a href="https://en.cppreference.com/w/cpp" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
+  </a>
+  <a href="https://docs.oracle.com/en/java/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
+  </a>
+  <a href="https://docs.python.org/3/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
+  </a>
+</p>
 
 ## 💼 **Skills**
 
