@@ -35,7 +35,11 @@ I’m a student at the Indian Institute of Information Technology Vadodara. My i
   - **Loan EMI Calculator:** Calculate EMI for loans and visualize the payment schedule.
   - **Mutual Fund Returns Calculator:** Estimate future returns on mutual fund investments.
   - **Retirement Planning:** Project the future value of retirement savings.
+- **Project Report:** [Google Drive Link](https://drive.google.com/drive/folders/1o4k3Ba73WSAZqISfMUMMij1sdTWhC--p?usp=sharing)
 - **GitHub:** [Comprehensive Finance Dashboard](https://github.com/yourusername/projectname)
+
+## Skill Level: 100% Python 🐍
+![Python](https://img.shields.io/badge/100%25%20Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ### 2. **Music Player App 🎶**
 - **Description:** A music player app built with Flutter, featuring a database of songs 🎧.
