@@ -1,13 +1,28 @@
 # Welcome to My GitHub Portfolio 👋
 
-Hello! I'm [Your Name], a passionate developer and student at [Your Institute]. I specialize in machine learning 🤖, app development 📱, and research 📚. Below you’ll find some of my projects and work.
+Hello! I'm Prateek, a passionate developer and student at the Indian Institute of Information Technology Vadodara. I specialize in web technologies 🌐, Python programming 🐍, and have a strong interest in DSA, AI, and ML. Below you’ll find some of my projects and work.
 
 ## About Me 🧑‍💻
-I’m a student at the Indian Institute of Information Technology Vadodara. My interests lie in AI, app development, and exploring new technologies. I love working on projects that challenge my skills and help me grow.
+I’m a student at the Indian Institute of Information Technology Vadodara. My interests lie in web technologies, Python programming, and exploring new AI/ML advancements. I love working on projects that challenge my skills and help me grow.
 
-- **Languages:** Python 🐍, Java ☕, Dart 🎯, C++ 💻
-- **Technologies:** Flutter 🦋, Machine Learning 🤖, Computer Vision 👁️, VR 🕶️, Android Development 📱
+- **Languages:** Python 🐍, Java ☕, JavaScript 💻, HTML ✨, CSS 🎨, C 🖥️, MATLAB 🧑‍🔬
+- **Technologies:** React ⚛️, MongoDB 🗄️, MySQL 🗃️, Firebase 🔥, TensorFlow 🤖, Tkinter 🖥️, NumPy 🔢, Pandas 📊
 - **Current Focus:** AI-powered disaster response assistant project for a hackathon 🚨
+
+## Skills 🛠️
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=matlab&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
 ## Projects 🚀
 
@@ -23,7 +38,7 @@ I’m a student at the Indian Institute of Information Technology Vadodara. My i
 
 ### 3. **Architectural Drawings Augmentation 🏠**
 - **Description:** A project where a 2D floor plan is augmented with a 3D representation using computer vision 🖼️.
-- **Technologies:** MATLAB 🖥️, Computer Vision Toolbox™ 👁️
+- **Technologies:** MATLAB 🧑‍🔬, Computer Vision Toolbox™ 👁️
 - **GitHub:** [Architectural Drawings Augmentation](https://github.com/yourusername/projectname)
 
 ### 4. **Queer Reading in Hindu Mythology Research Paper 📜**
