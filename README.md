@@ -1,71 +1,89 @@
-# Welcome to My GitHub Portfolio 👋
+# 👨‍💻 **Prateek's Portfolio** 🌟
 
-Hello! I'm Prateek, a passionate developer and student at the Indian Institute of Information Technology Vadodara. I specialize in web technologies 🌐, Python programming 🐍, and have a strong interest in DSA, AI, and ML. Below you’ll find some of my projects and work.
+Welcome to my GitHub Portfolio! I am a passionate student at the **Indian Institute of Information Technology Vadodara** with a deep interest in **Web Technologies**, **AI/ML**, **Python**, and **DSA**. Here, you'll find my projects, skills, and contributions that reflect my passion for learning and building impactful solutions. 🚀
 
-## About Me 🧑‍💻
-I’m a student at the Indian Institute of Information Technology Vadodara. My interests lie in web technologies, Python programming, and exploring new AI/ML advancements. I love working on projects that challenge my skills and help me grow.
+---
 
-- **Languages:** Python 🐍, Java ☕, JavaScript 💻, HTML ✨, CSS 🎨, C 🖥️, MATLAB 🧑‍🔬
-- **Technologies:** React ⚛️, MongoDB 🗄️, MySQL 🗃️, Firebase 🔥, TensorFlow 🤖, Tkinter 🖥️, NumPy 🔢, Pandas 📊
-- **Current Focus:** AI-powered disaster response assistant project for a hackathon 🚨
+## 🧑‍💻 **About Me**
+I am **Prateek**, a student and tech enthusiast who loves exploring new technologies. My primary focus is on **Web Development**, **AI/ML**, **Data Science**, and **Mobile App Development**. I'm always eager to learn and grow by taking on new challenges and contributing to the tech community. 🌱
 
-## Skills 🛠️
+- **Location:** India 🇮🇳
+- **Education:** **Indian Institute of Information Technology Vadodara**
+- **Interests:** Web Tech (HTML, CSS, JS, React, MongoDB), Python (NumPy, Pandas, TensorFlow, Tkinter), DSA, AI/ML, Firebase, MySQL, MATLAB, Web Scraping 🌐
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=matlab&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+---
 
-## Projects 🚀
+## 💼 **Skills**
+
+### 🖥 **Programming Languages**
+- **Python** 🐍
+- **Java** ☕
+- **C** 🔧
+- **JavaScript** 💻
+- **HTML/CSS** 🌐
+
+### 🧠 **Technologies & Tools**
+- **React** ⚛️
+- **MongoDB** 🗃️
+- **MySQL** 🛠️
+- **Firebase** 🔥
+- **TensorFlow** 🤖
+- **Pandas** 📊
+- **MATLAB** 🧮
+- **BeautifulSoup** 🌐
+
+### 📈 **Machine Learning & AI**
+- **Supervised Learning** 🤖
+- **Deep Learning** 🧠
+- **Natural Language Processing** 📝
+- **Computer Vision** 👁️
+
+### 🌍 **Web Scraping**
+- **BeautifulSoup** 🌐
+- **Selenium** 🔄
+
+---
+
+## 📂 **Projects**
 
 ### 1. **Comprehensive Finance Dashboard 📊**
-- **Description:** A web app built with Streamlit that provides financial tools for stock analysis, portfolio management, loan evaluation, mutual fund tracking, and retirement planning. It uses web scraping with BeautifulSoup to fetch real-time market data.
+- **Description:** A real-time financial dashboard built with **Streamlit** that provides tools for stock analysis, portfolio management, loan evaluation, mutual fund tracking, and retirement planning. The app fetches data through **web scraping** using **BeautifulSoup**.
 - **Technologies:** Python 🐍, Streamlit 🌐, BeautifulSoup 🌐, Pandas 📊, Matplotlib 📉
 - **Features:**
-  - **Indian Stock Dashboard:** View real-time data and historical trends for Indian stocks by scraping data from the official stock websites.
-  - **Portfolio Tracker:** Track investments, stock performance, and portfolio value.
-  - **Loan EMI Calculator:** Calculate EMI for loans and visualize the payment schedule.
-  - **Mutual Fund Returns Calculator:** Estimate future returns on mutual fund investments.
-  - **Retirement Planning:** Project the future value of retirement savings.
-- **Project Report:** [Google Drive Link](https://drive.google.com/drive/folders/1o4k3Ba73WSAZqISfMUMMij1sdTWhC--p?usp=sharing)
+  - Indian Stock Dashboard 🇮🇳
+  - Portfolio Tracker 📈
+  - Loan EMI Calculator 💰
+  - Mutual Fund Returns Calculator 💵
+  - Retirement Planning ⏳
 - **GitHub:** [Comprehensive Finance Dashboard](https://github.com/yourusername/projectname)
+- **Project Report:** [Google Drive Link](https://drive.google.com/drive/folders/1o4k3Ba73WSAZqISfMUMMij1sdTWhC--p?usp=sharing)
 
-## Skill Level: 100% Python 🐍
-<div style="width: 100%; background-color: #f3f3f3; border-radius: 25px;">
-  <div style="width: 100%; background-color: #3776AB; color: white; text-align: center; border-radius: 25px; padding: 10px;">
-    100% Python
-  </div>
-</div>
+### 2. **Stock Market Portfolio System 📈**
+- **Description:** A portfolio management system that tracks stock prices and portfolio performance in real-time. It uses **web scraping** to fetch live stock data from the **NSE** website.
+- **Technologies:** Python 🐍, BeautifulSoup 🌐, Streamlit 📊
+- **GitHub:** [Stock Market Portfolio System](https://github.com/yourusername/projectname)
 
-### 2. **Music Player App 🎶**
-- **Description:** A music player app built with Flutter, featuring a database of songs 🎧.
-- **Technologies:** Flutter 🦋, Firebase 🔥
-- **GitHub:** [Music Player App](https://github.com/yourusername/musicplayer)
+---
 
-### 3. **Architectural Drawings Augmentation 🏠**
-- **Description:** A project where a 2D floor plan is augmented with a 3D representation using computer vision 🖼️.
-- **Technologies:** MATLAB 🧑‍🔬, Computer Vision Toolbox™ 👁️
-- **GitHub:** [Architectural Drawings Augmentation](https://github.com/yourusername/projectname)
+## 🏆 **Achievements**
+- **Stanford & DeepLearning.ai**: Completed certification in **Supervised Machine Learning: Regression and Classification**.
+- **Microsoft Learn Student Ambassador (MLSA)**: Selected for the **Public Relations (PR) Domain** at IIITV Chapter.
+- **Hackathon Participation**: Working on an **AI-powered disaster response assistant** for an upcoming hackathon.
 
-### 4. **Queer Reading in Hindu Mythology Research Paper 📜**
-- **Description:** A research paper exploring queer perspectives in Hindu mythology 🌈.
-- **Technologies:** Google Forms 📊, Data Analysis 📈
-- **GitHub:** [Queer Reading in Hindu Mythology](https://github.com/yourusername/researchpaper)
+---
 
-## Certifications 🏅
-- **Supervised Machine Learning: Regression and Classification** - Stanford and DeepLearning.ai
+## 📬 **Contact Me**
+Feel free to reach out to me for collaborations, project inquiries, or just to chat about tech!
 
-## Connect With Me 🌍
-- [LinkedIn](https://www.linkedin.com/in/yourusername) 🌐
-- [Twitter](https://twitter.com/yourusername) 🐦
-- [Email](mailto:youremail@example.com) 📧
+- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn:** [Prateek's LinkedIn](https://www.linkedin.com/in/yourprofile)
+- **Twitter:** [@yourusername](https://twitter.com/yourusername)
 
-Feel free to explore my repositories, contribute to my projects, or reach out to me for collaboration! 🤝
+---
+
+## 🌟 **GitHub Stats**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&theme=radical)
+
+---
+
+### **Made with ❤️ by Prateek**
