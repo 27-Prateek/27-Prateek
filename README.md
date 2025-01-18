@@ -25,10 +25,7 @@ I am **Prateek**, a student and tech enthusiast who loves exploring new technolo
   <a href="https://react.dev/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
   </a>
-  <a href="https://tailwindcss.com/docs" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" />
-  </a>
-
+  
   <!-- Backend -->
   <a href="https://nodejs.org/en/docs/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
