@@ -12,70 +12,88 @@ I am **Prateek**, a student and tech enthusiast who loves exploring new technolo
 
 ## 🧑‍💻 **Interests**
 - **Web Tech**: 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" width="50" height="50" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" width="50" height="50" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" width="50" height="50" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" width="50" height="50" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" width="50" height="50" />
+  <span style="display:inline-block; padding:10px; background-color:#f1f1f1; border-radius:8px; margin:5px;">
+    <i class="fab fa-html5" style="font-size: 30px;"></i>
+  </span>
+  <span style="display:inline-block; padding:10px; background-color:#f1f1f1; border-radius:8px; margin:5px;">
+    <i class="fab fa-css3-alt" style="font-size: 30px;"></i>
+  </span>
+  <span style="display:inline-block; padding:10px; background-color:#f1f1f1; border-radius:8px; margin:5px;">
+    <i class="fab fa-js-square" style="font-size: 30px;"></i>
+  </span>
+  <span style="display:inline-block; padding:10px; background-color:#f1f1f1; border-radius:8px; margin:5px;">
+    <i class="fab fa-react" style="font-size: 30px;"></i>
+  </span>
+  <span style="display:inline-block; padding:10px; background-color:#f1f1f1; border-radius:8px; margin:5px;">
+    <i class="fas fa-database" style="font-size: 30px;"></i>
+  </span>
+  
 - **Python**: 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" width="50" height="50" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" width="50" height="50" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" width="50" height="50" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" width="50" height="50" />
-  <img src="https://img.shields.io/badge/Tkinter-008080?style=flat&logo=tkinter&logoColor=white" width="50" height="50" />
+  <span style="display:inline-block; padding:10px; background-color:#f1f1f1; border-radius:8px; margin:5px;">
+    <i class="fab fa-python" style="font-size: 30px;"></i>
+  </span>
+  <span style="display:inline-block; padding:10px; background-color:#f1f1f1; border-radius:8px; margin:5px;">
+    <i class="fas fa-cogs" style="font-size: 30px;"></i>
+  </span>
+  
 - **DSA**: 
-  <img src="https://img.shields.io/badge/DSA-000000?style=flat&logo=python&logoColor=white" width="50" height="50" />
+  <span style="display:inline-block; padding:10px; background-color:#f1f1f1; border-radius:8px; margin:5px;">
+    <i class="fas fa-code" style="font-size: 30px;"></i>
+  </span>
+
 - **AI/ML**: 
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF8C00?style=flat&logo=python&logoColor=white" width="50" height="50" />
-  <img src="https://img.shields.io/badge/AI-4B8BBE?style=flat&logo=python&logoColor=white" width="50" height="50" />
+  <span style="display:inline-block; padding:10px; background-color:#f1f1f1; border-radius:8px; margin:5px;">
+    <i class="fas fa-brain" style="font-size: 30px;"></i>
+  </span>
+  
 - **Firebase**: 
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white" width="50" height="50" />
+  <span style="display:inline-block; padding:10px; background-color:#f1f1f1; border-radius:8px; margin:5px;">
+    <i class="fab fa-fire" style="font-size: 30px;"></i>
+  </span>
+  
 - **MySQL**: 
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" width="50" height="50" />
+  <span style="display:inline-block; padding:10px; background-color:#f1f1f1; border-radius:8px; margin:5px;">
+    <i class="fas fa-database" style="font-size: 30px;"></i>
+  </span>
+
 - **MATLAB**: 
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=matlab&logoColor=white" width="50" height="50" />
+  <span style="display:inline-block; padding:10px; background-color:#f1f1f1; border-radius:8px; margin:5px;">
+    <i class="fab fa-linux" style="font-size: 30px;"></i>
+  </span>
+  
 - **Web Scraping**: 
-  <img src="https://img.shields.io/badge/Web%20Scraping-FF6347?style=flat&logo=python&logoColor=white" width="50" height="50" />
+  <span style="display:inline-block; padding:10px; background-color:#f1f1f1; border-radius:8px; margin:5px;">
+    <i class="fas fa-sitemap" style="font-size: 30px;"></i>
+  </span>
 
 ---
 
 ## 💼 **Skills**
 
 ### 🖥 **Programming Languages**
-- <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" width="50" height="50" />
-- <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" width="50" height="50" />
-- <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" width="50" height="50" />
-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" width="50" height="50" />
-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" width="50" height="50" />
-- <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" width="50" height="50" />
-
+- <span style="display:inline-block; padding:10px; background-color:#f1f1f1; border-radius:8px; margin:5px;">
+    <i class="fab fa-python" style="font-size: 30px;"></i>
+  </span>
+- <span style="display:inline-block; padding:10px; background-color:#f1f1f1; border-radius:8px; margin:5px;">
+    <i class="fab fa-java" style="font-size: 30px;"></i>
+  </span>
+- <span style="display:inline-block; padding:10px; background-color:#f1f1f1; border-radius:8px; margin:5px;">
+    <i class="fab fa-cuttlefish" style="font-size: 30px;"></i>
+  </span>
+  
 ### 🧠 **Technologies & Tools**
-- <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" width="50" height="50" />
-- <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" width="50" height="50" />
-- <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" width="50" height="50" />
-- <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white" width="50" height="50" />
-- <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" width="50" height="50" />
-- <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" width="50" height="50" />
-- <img src="https://img.shields.io/badge/Matplotlib-003B57?style=flat&logo=matplotlib&logoColor=white" width="50" height="50" />
-- <img src="https://img.shields.io/badge/Tkinter-008080?style=flat&logo=tkinter&logoColor=white" width="50" height="50" />
-
+- <span style="display:inline-block; padding:10px; background-color:#f1f1f1; border-radius:8px; margin:5px;">
+    <i class="fab fa-react" style="font-size: 30px;"></i>
+  </span>
+- <span style="display:inline-block; padding:10px; background-color:#f1f1f1; border-radius:8px; margin:5px;">
+    <i class="fas fa-database" style="font-size: 30px;"></i>
+  </span>
+- <span style="display:inline-block; padding:10px; background-color:#f1f1f1; border-radius:8px; margin:5px;">
+    <i class="fab fa-fire" style="font-size: 30px;"></i>
+  </span>
+  
 ### 🌍 **Web Scraping**
-- <img src="https://img.shields.io/badge/BeautifulSoup-FF6347?style=flat&logo=python&logoColor=white" width="50" height="50" />
+- <span style="display:inline-block; padding:10px; background-color:#f1f1f1; border-radius:8px; margin:5px;">
+    <i class="fas fa-sitemap" style="font-size: 30px;"></i>
+  </span>
 
-## 📂 **Projects**
-
-### 1. **Comprehensive Finance Dashboard 📊**
-- **Description:** A real-time financial dashboard built with **Streamlit** that provides tools for stock analysis, portfolio management, loan evaluation, mutual fund tracking, and retirement planning. The app fetches data through **web scraping** using **BeautifulSoup**.
-- **Technologies:** Python 🐍, Streamlit 🌐, BeautifulSoup 🌐, Pandas 📊, Matplotlib 📉
-- **Features:**
-  - Indian Stock Dashboard 🇮🇳
-  - Portfolio Tracker 📈
-  - Loan EMI Calculator 💰
-  - Mutual Fund Returns Calculator 💵
-  - Retirement Planning ⏳
-- **GitHub:** [Comprehensive Finance Dashboard](https://github.com/yourusername/projectname)
-- **Project Report:** [Google Drive Link](https://drive.google.com/drive/folders/1o4k3Ba73WSAZqISfMUMMij1sdTWhC--p?usp=sharing)
-
-### 2. **Stock Market Portfolio System 📈**
-- **Description:** A portfolio management system that tracks stock prices and portfolio performance in real-time. It uses **web scraping** to fetch live stock data from the **NSE** website.
-- **Technologies:** Python 🐍, Beautif
