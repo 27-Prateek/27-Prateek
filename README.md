@@ -41,15 +41,8 @@ I am **Prateek**, a student and tech enthusiast who loves exploring new technolo
  ![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=flat&logo=matplotlib&logoColor=white)
  ![Tkinter](https://img.shields.io/badge/Tkinter-008080?style=flat&logo=tkinter&logoColor=white)
 
-### 📈 **Machine Learning & AI**
-- ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF8C00?style=flat&logo=python&logoColor=white)
-- ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6347?style=flat&logo=python&logoColor=white)
-- ![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=flat&logo=python&logoColor=white)
-- ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-4B8BBE?style=flat&logo=python&logoColor=white)
-
 ### 🌍 **Web Scraping**
 - ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-FF6347?style=flat&logo=python&logoColor=white)
-- ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 
 ## 📂 **Projects**
 
