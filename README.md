@@ -27,10 +27,10 @@ I’m a student at the Indian Institute of Information Technology Vadodara. My i
 ## Projects 🚀
 
 ### 1. **Comprehensive Finance Dashboard 📊**
-- **Description:** A web app built with Streamlit that provides financial tools for stock analysis, portfolio management, loan evaluation, mutual fund tracking, and retirement planning. It integrates real-time market data via the yfinance API.
-- **Technologies:** Python 🐍, Streamlit 🌐, yfinance 📈, Pandas 📊, Matplotlib 📉
+- **Description:** A web app built with Streamlit that provides financial tools for stock analysis, portfolio management, loan evaluation, mutual fund tracking, and retirement planning. It uses web scraping with BeautifulSoup to fetch real-time market data.
+- **Technologies:** Python 🐍, Streamlit 🌐, BeautifulSoup 🌐, Pandas 📊, Matplotlib 📉
 - **Features:**
-  - **Indian Stock Dashboard:** View real-time data and historical trends for Indian stocks.
+  - **Indian Stock Dashboard:** View real-time data and historical trends for Indian stocks by scraping data from the official stock websites.
   - **Portfolio Tracker:** Track investments, stock performance, and portfolio value.
   - **Loan EMI Calculator:** Calculate EMI for loans and visualize the payment schedule.
   - **Mutual Fund Returns Calculator:** Estimate future returns on mutual fund investments.
