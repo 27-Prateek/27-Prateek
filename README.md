@@ -24,33 +24,32 @@ I am **Prateek**, a student and tech enthusiast who loves exploring new technolo
 ## 💼 **Skills**
 
 ### 🖥 **Programming Languages**
-- **Python** 🐍
-- **Java** ☕
-- **C** 🔧
-- **JavaScript** 💻
-- **HTML/CSS** 🌐
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+- ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ### 🧠 **Technologies & Tools**
-- **React** ⚛️
-- **MongoDB** 🗃️
-- **MySQL** 🛠️
-- **Firebase** 🔥
-- **TensorFlow** 🤖
-- **Pandas** 📊
-- **MATLAB** 🧮
-- **BeautifulSoup** 🌐
+- ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+- ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
+- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+- ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+- ![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=flat&logo=matplotlib&logoColor=white)
+- ![Tkinter](https://img.shields.io/badge/Tkinter-008080?style=flat&logo=tkinter&logoColor=white)
 
 ### 📈 **Machine Learning & AI**
-- **Supervised Learning** 🤖
-- **Deep Learning** 🧠
-- **Natural Language Processing** 📝
-- **Computer Vision** 👁️
+- ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF8C00?style=flat&logo=python&logoColor=white)
+- ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6347?style=flat&logo=python&logoColor=white)
+- ![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=flat&logo=python&logoColor=white)
+- ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-4B8BBE?style=flat&logo=python&logoColor=white)
 
 ### 🌍 **Web Scraping**
-- **BeautifulSoup** 🌐
-- **Selenium** 🔄
-
----
+- ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-FF6347?style=flat&logo=python&logoColor=white)
+- ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 
 ## 📂 **Projects**
 
