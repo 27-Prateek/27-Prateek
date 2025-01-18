@@ -53,6 +53,10 @@ I am **Prateek**, a student and tech enthusiast who loves exploring new technolo
   <a href="https://docs.python.org/3/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
   </a>
+  <a href="https://www.mathworks.com/help/matlab/" target="_blank">
+    <img src="https://camo.githubusercontent.com/3588919a3653169677dc926eb819687aa9803162f421737d636056f25d1e49c5/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f322f32312f4d61746c61625f4c6f676f2e706e67" alt="MATLAB" width="40" />
+  </a>
+
 </p>
 
 ## 💼 **Skills**
