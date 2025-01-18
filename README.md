@@ -26,10 +26,19 @@ I’m a student at the Indian Institute of Information Technology Vadodara. My i
 
 ## Projects 🚀
 
-### 1. **Object Recognition Web App**
-- **Description:** A web app that uses machine learning for object recognition 🔍.
-- **Technologies:** Python 🐍, TensorFlow 🤖, Flask 🌐
-- **GitHub:** [Object Recognition Web App](https://github.com/yourusername/projectname)
+### 1. **Stock Market Portfolio System 📈**
+- **Description:** This system allows users to track their stock market portfolio in real-time. It fetches live stock data from the official NSE (National Stock Exchange) website using web scraping (BeautifulSoup). The front-end is built using Streamlit for an interactive user interface.
+- **Technologies:** Python 🐍, BeautifulSoup 🌐, Streamlit 📊
+- **Features:**
+  - Fetches live stock data from the NSE website using web scraping.
+  - Allows users to add, remove, and track stocks in their portfolio.
+  - Displays real-time stock prices, portfolio value, and percentage change.
+  - Interactive front-end built using Streamlit for a user-friendly experience.
+- **Challenges:**
+  - Handling live data fetching and ensuring the data is up-to-date.
+  - Managing real-time updates and providing accurate stock price data.
+  - Integrating web scraping into the front-end for seamless user experience.
+- **GitHub:** [Stock Market Portfolio System](https://github.com/yourusername/projectname)
 
 ### 2. **Music Player App 🎶**
 - **Description:** A music player app built with Flutter, featuring a database of songs 🎧.
