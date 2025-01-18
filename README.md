@@ -39,7 +39,11 @@ I’m a student at the Indian Institute of Information Technology Vadodara. My i
 - **GitHub:** [Comprehensive Finance Dashboard](https://github.com/yourusername/projectname)
 
 ## Skill Level: 100% Python 🐍
-![Python](https://img.shields.io/badge/100%25%20Python-3776AB?style=flat&logo=python&logoColor=white)
+<div style="width: 100%; background-color: #f3f3f3; border-radius: 25px;">
+  <div style="width: 100%; background-color: #3776AB; color: white; text-align: center; border-radius: 25px; padding: 10px;">
+    100% Python
+  </div>
+</div>
 
 ### 2. **Music Player App 🎶**
 - **Description:** A music player app built with Flutter, featuring a database of songs 🎧.
