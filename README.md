@@ -20,12 +20,7 @@ I am **Prateek**, a student and tech enthusiast who loves exploring new technolo
 
 
 ### 🧑‍💻 **Programming Languages**
-![C](https://img.icons8.com/color/48/000000/c-programming.png)
-![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
-![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
-![Python](https://img.icons8.com/color/48/000000/python.png)
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="48" style="vertical-align:middle;"/>
-
+<a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/></a> <a href="https://docs.oracle.com/en/java/" target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/></a> <a href="https://docs.python.org/3/" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/></a> <a href="https://www.mathworks.com/help/matlab/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="48" style="vertical-align:middle;"/></a>
 ---
 
 ## 💼 **Skills**
