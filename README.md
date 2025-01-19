@@ -14,12 +14,7 @@ I am **Prateek**, a student and tech enthusiast who loves exploring new technolo
 
 ## 🛠 **Technologies & Tools**
 
-### 🌐 **Frontend**
-![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
-![CSS3](https://img.icons8.com/color/48/000000/css3.png)
-![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)
-![React](https://img.icons8.com/color/48/000000/react-native.png)
-
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/></a> <a href="https://react.dev/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/></a>
 ### 🖥 **Backend**
 ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
 ![Express.js](https://img.icons8.com/color/48/000000/express.png)
