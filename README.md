@@ -43,9 +43,18 @@ href="https://firebase.google.com/docs" target="_blank"><img src="https://img.ic
 ---
 
 ## 🚀 **Projects**
-- **[AI-Powered Disaster Response Assistant](#)**: Built an AI assistant to help during natural disasters.
-- **[Music Player App](#)**: Developed a Flutter-based app with a built-in song database.
-- **[Architectural Visualization](#)**: Created a project using MATLAB to augment 2D floor plans with 3D models.
+
+### 1️⃣ **Stock Portfolio**  
+A web app to manage and track stock investments, with portfolio analysis and visualization.  
+
+🔗 **[View Repository](#)**  
+
+---
+
+### 2️⃣ **Mathematics Quiz**  
+An interactive quiz app with performance analysis and image transformation for report creation.  
+
+🔗 **[View Repository](#)** 
 
 ---
 
