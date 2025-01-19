@@ -30,7 +30,7 @@ I am **Prateek**, a student and tech enthusiast who loves exploring new technolo
 ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
 ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
 ![Python](https://img.icons8.com/color/48/000000/python.png)
-![MATLAB](https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="48" style="vertical-align:middle;"/>
 
 ---
 
