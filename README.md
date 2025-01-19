@@ -17,6 +17,7 @@ I am **Prateek**, a student and tech enthusiast who loves exploring new technolo
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/></a> <a href="https://react.dev/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/></a>
 ### 🖥  **Backend**
 <a href="https://nodejs.org/en/docs/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/></a> <a href="https://expressjs.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js"/></a> <a href="https://www.mongodb.com/docs/" target="_blank"><img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/></a>
+href="https://firebase.google.com/docs" target="_blank"><img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/></a>
 
 
 ### 🧑‍💻 **Programming Languages**
