@@ -9,7 +9,6 @@ I am **Prateek**, a student and tech enthusiast who loves exploring new technolo
 
 - **📍 Location:** India 🇮🇳  
 - **🎓 Education:** **Indian Institute of Information Technology Vadodara**
-
 ---
 
 ## 🛠 **Technologies & Tools**
